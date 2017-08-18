@@ -22,7 +22,7 @@
 - [x] 13. Интерфейсы: сравнение с абстрактным классом, множественное наследование.
 - [x] 14. Приведение типов, instanceof. Большая задача на интерфейсы.
 - [x] 15. Перегрузка методов, особенность вызова конструкторов.
-- [ ] 16. Знакомство с нитями: Thread, Runnable, start, join, interrupt, sleep.
+- [x] 16. Знакомство с нитями: Thread, Runnable, start, join, interrupt, sleep.
 - [ ] 17. Знакомство с нитями: synchronized, volatile, yield.
 - [ ] 18. Знакомство с потоками: InputStream/OutputStream, FileInputStream, FileOutputStream.
 - [ ] 19. Знакомство с потоками: Reader/Writer, FileReader/FileWriter.
