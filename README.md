@@ -25,7 +25,7 @@
 - [x] 16. Знакомство с нитями: Thread, Runnable, start, join, interrupt, sleep.
 - [x] 17. Знакомство с нитями: synchronized, volatile, yield.
 - [x] 18. Знакомство с потоками: InputStream/OutputStream, FileInputStream, FileOutputStream.
-- [ ] 19. Знакомство с потоками: Reader/Writer, FileReader/FileWriter.
+- [x] 19. Знакомство с потоками: Reader/Writer, FileReader/FileWriter.
 - [ ] 20. Сериализация.
 #### III. Java Multithreading
 - [ ] 21. Устройство объекта Object: equals, hashCode, clone, wait, notify, toString().
