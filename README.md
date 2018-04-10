@@ -26,7 +26,7 @@
 - [x] 17. Знакомство с нитями: synchronized, volatile, yield.
 - [x] 18. Знакомство с потоками: InputStream/OutputStream, FileInputStream, FileOutputStream.
 - [x] 19. Знакомство с потоками: Reader/Writer, FileReader/FileWriter.
-- [ ] 20. Сериализация.
+- [x] 20. Сериализация.
 #### III. Java Multithreading
 - [ ] 21. Устройство объекта Object: equals, hashCode, clone, wait, notify, toString().
 - [ ] 22. String: mutable, immutable, format, StringTokenizer, StringBuilder, StringBuffer.
