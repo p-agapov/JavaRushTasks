@@ -28,7 +28,7 @@
 - [x] 19. Знакомство с потоками: Reader/Writer, FileReader/FileWriter.
 - [x] 20. Сериализация.
 #### III. Java Multithreading
-- [ ] 21. Устройство объекта Object: equals, hashCode, clone, wait, notify, toString().
+- [x] 21. Устройство объекта Object: equals, hashCode, clone, wait, notify, toString().
 - [ ] 22. String: mutable, immutable, format, StringTokenizer, StringBuilder, StringBuffer.
 - [ ] 23. Внутренние классы, примеры: Map.Entry.
 - [ ] 24. Внутренние классы, особенности реализации.
